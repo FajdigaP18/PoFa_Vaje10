@@ -1,0 +1,3 @@
+C:\Users\Polona\Desktop\Prak_mat\Prog\PoLo_Vaje10\Bloom\obj\Debug\Bloom.csproj.AssemblyReference.cache
+C:\Users\Polona\Desktop\Prak_mat\Prog\PoLo_Vaje10\Bloom\obj\Debug\Bloom.csproj.SuggestedBindingRedirects.cache
+C:\Users\Polona\Desktop\Prak_mat\Prog\PoLo_Vaje10\Bloom\obj\Debug\Bloom.csproj.CoreCompileInputs.cache
